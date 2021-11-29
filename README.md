@@ -1,3 +1,3 @@
 # Cosmo-droidian
 
-This is the initil commit for how to get drodian running on Planet Cosmo
+This is the initil commit for how to get droidian running on Planet Cosmo
