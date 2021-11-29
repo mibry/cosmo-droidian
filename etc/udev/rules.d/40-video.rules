@@ -1,0 +1,1 @@
+ACTION=="add", KERNEL=="mtk_disp_mgr", MODE="0664", GROUP="android_graphics"
